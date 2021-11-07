@@ -1,6 +1,6 @@
 # 提出了基于参数估计和变换的自动调制识别的高效深度学习模型，解决了复杂模型参数量过大、轻量化模型识别精度较低的问题
 在RML2016.10a RML2016.10b RML2018.01a三个数据集上进行了实验测试，验证了所提算法的优越性。
-可以作为方案（1）模型压缩策略，也可以作为方案（4）进一步提高识别准确率。
+可以作为方案（4）进一步提高识别准确率，也可以勉强作为方案（1）模型压缩策略。
 
 # PET-CGDNN
 Source code for the paper "An Efficient Deep Learning Model for Automatic Modulation Recognition Based on Parameter Estimation and Transformation", which is pubulished in IEEE Communications Letters. 
